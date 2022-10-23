@@ -1,3 +1,4 @@
-SQLAlchemy==0.9.8
+SQLAlchemy==1.2.18
 Scrapy==0.24.4
 psycopg2==2.5.4
+twisted>=22.4.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
