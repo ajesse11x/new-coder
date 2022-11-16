@@ -1,3 +1,4 @@
 SQLAlchemy==0.9.8
-Scrapy==0.24.4
+Scrapy==2.6.0
 psycopg2==2.5.4
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
