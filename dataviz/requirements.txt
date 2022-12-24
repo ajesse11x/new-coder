@@ -2,3 +2,4 @@
 numpy==1.9.1
 matplotlib==1.4.2
 geojson==1.0.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
